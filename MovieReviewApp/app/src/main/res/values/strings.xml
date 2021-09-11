@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieReviewApp</string>
+    <string name="search_movie_edt_hint">영화 제목 검색</string>
+    <string name="search_input_query_msg">검색어를 입력해주세요</string>
+    <string name="network_error_msg">네트워크를 연결해주세요.</string>
+    <string name="load_movie_success_msg">영화를 불러왔습니다.</string>
+    <string name="no_movie_error_msg">해당 영화는 존재하지 않습니다.</string>
+    <string name="last_page_msg">마지막 페이지 입니다</string>
+    <string name="search">검색</string>
+</resources>
